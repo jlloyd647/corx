@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-corxalpha-dev-140758-authRole",
+      "UnauthRoleArn": "arn:aws:iam::825857389317:role/amplify-corxalpha-dev-140758-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::825857389317:role/amplify-corxalpha-dev-140758-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-corxalpha-dev-140758-deployment",
+      "UnauthRoleName": "amplify-corxalpha-dev-140758-unauthRole",
+      "StackName": "amplify-corxalpha-dev-140758",
+      "StackId": "arn:aws:cloudformation:us-east-1:825857389317:stack/amplify-corxalpha-dev-140758/c1ee4940-e660-11eb-80ec-0aac80a39b9b",
+      "AmplifyAppId": "dnx3e86cju4d5"
+    },
+    "categories": {
+      "auth": {
+        "corxalphaa7a74900": {}
+      }
+    }
+  }
+}
